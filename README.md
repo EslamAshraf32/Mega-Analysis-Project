@@ -14,7 +14,7 @@ This project demonstrates a full-cycle e-commerce data analysis solution develop
   ![Picture2222](https://github.com/user-attachments/assets/f014292a-8074-4374-aff1-1294fde59cb7)
 
 
-* 📚 **Database Dictionary** *(insert link or section)*
+* [📚 **Database Dictionary**](./data_dictionary/database_dictionary.pdf)
 
 ---
 
