@@ -31,7 +31,7 @@ This project demonstrates a full-cycle e-commerce data analysis solution develop
 ## 🗂️ Project Phases
 
 ### 1. 🔍 Data Cleaning & Validation (SQL Server)
-
+" make sure to read the docs it contains all the insights with its recommenadations. "
 Performed rigorous data audits using dynamic SQL, foreign key checks, and NULL validations across all tables:
 
 * Removed duplicates and invalid rows
@@ -55,6 +55,19 @@ Performed rigorous data audits using dynamic SQL, foreign key checks, and NULL v
 ---
 
 ### 2. 📈 Business Intelligence Dashboard (Power BI)
+![page1](https://github.com/user-attachments/assets/97604150-cc5a-4a7f-9629-a4ae3772732e)
+
+![page2](https://github.com/user-attachments/assets/5175b498-9033-4e1a-93fa-08b5ef90f02a)
+
+![page3](https://github.com/user-attachments/assets/f39d0074-16b0-422b-9e4a-2bbf9ddfcdf2)
+
+![page4](https://github.com/user-attachments/assets/7a22f572-c649-4657-b3f4-962a2e5e64ad)
+
+![page5](https://github.com/user-attachments/assets/34586619-c588-4bcd-b44d-abf257e06a7c)
+
+
+
+
 
 **Key KPIs & Metrics:**
 
