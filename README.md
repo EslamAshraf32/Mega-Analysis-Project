@@ -9,7 +9,11 @@ This project demonstrates a full-cycle e-commerce data analysis solution develop
 
 ## 🔗 Project Artifacts
 
-* 📘 **Notion Workspace & Task Board** *(insert your Notion link)*
+* **Notion**
+  ![Picture1111](https://github.com/user-attachments/assets/947af9cd-32a4-40d3-8974-b68b7d5a4088)
+  ![Picture2222](https://github.com/user-attachments/assets/f014292a-8074-4374-aff1-1294fde59cb7)
+
+
 * 📚 **Database Dictionary** *(insert link or section)*
 
 ---
