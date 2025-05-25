@@ -20,7 +20,7 @@ This project demonstrates a full-cycle e-commerce data analysis solution develop
 * **Data Cleaning & Processing:** SQL Server, Python (`pandas`, `pyodbc`, Mito)
 * **Visualization:** Power BI
 * **Machine Learning:** scikit-learn, XGBoost
-* **Automation & Deployment:** Azure Functions *(planned)*, Azure ML *(planned)*
+
 
 ---
 
