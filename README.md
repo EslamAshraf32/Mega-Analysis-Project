@@ -176,6 +176,11 @@ We integrated **Vanna AI** to allow team members and stakeholders to **query the
 🧠 **Result:** XGBoost outperformed Random Forest in RMSE and R²
 📈 **Outcome:** Enabled accurate customer order value prediction
 
+![image](https://github.com/user-attachments/assets/0231a411-de4d-49bd-984e-81c47f975c4b)
+
+![image](https://github.com/user-attachments/assets/b88e3fc3-24e6-4f1e-b535-74cf289fdf02)
+
+
 ---
 
 ## 🎯 Final Insights & Recommendations
