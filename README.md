@@ -92,7 +92,7 @@ Performed rigorous data audits using dynamic SQL, foreign key checks, and NULL v
 
 ---
 
-💬 **Natural Language SQL with Vanna AI**
+### 3. 💬 Natural Language SQL with Vanna AI
 We integrated **Vanna AI** to allow team members and stakeholders to **query the SQL database using plain English**, significantly improving accessibility and speeding up analysis.
 
 🔍 **What Vanna AI Enables**
@@ -129,7 +129,7 @@ We integrated **Vanna AI** to allow team members and stakeholders to **query the
 
 ---
 
-### 3. 🧠 Machine Learning Pipeline (Python)
+### 4. 🧠 Machine Learning Pipeline (Python)
 
 **🛠 Tools:**
 
