@@ -30,6 +30,18 @@ This project demonstrates a full-cycle e-commerce data analysis solution develop
 
 ## 🗂️ Project Phases
 
+### 1. ☁Creating and Connecting the database on Azure
+
+![Azure1](https://github.com/user-attachments/assets/7990ed05-57aa-44ed-92e7-cd0da134468e)
+
+![Azure2](https://github.com/user-attachments/assets/cfe9b8e9-56f0-42f8-8321-afbdc9fe6798)
+
+![Azure3](https://github.com/user-attachments/assets/b5fdaea9-8da6-4d18-8b60-40f84ad85165)
+
+
+
+
+
 ### 1. 🔍 Data Cleaning & Validation (SQL Server)
 " make sure to read the docs it contains all the insights with its recommenadations. "
 Performed rigorous data audits using dynamic SQL, foreign key checks, and NULL validations across all tables:
