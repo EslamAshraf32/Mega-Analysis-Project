@@ -40,7 +40,7 @@ This project demonstrates a full-cycle e-commerce data analysis solution develop
 
 
 
-
+---
 
 ### 1. 🔍 Data Cleaning & Validation (SQL Server)
 " make sure to read the docs it contains all the insights with its recommenadations. "
