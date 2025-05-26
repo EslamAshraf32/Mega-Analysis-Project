@@ -92,6 +92,43 @@ Performed rigorous data audits using dynamic SQL, foreign key checks, and NULL v
 
 ---
 
+💬 **Natural Language SQL with Vanna AI**
+We integrated **Vanna AI** to allow team members and stakeholders to **query the SQL database using plain English**, significantly improving accessibility and speeding up analysis.
+
+🔍 **What Vanna AI Enables**
+* Translate natural language questions into **SQL queries**
+
+* Automatically run queries on the **Azure SQL Database**
+
+* Return instant results and visualizations for:
+
+* Sales trends
+
+* Customer behavior
+
+* Inventory insights
+
+* Product performance
+
+⚙️ **How It Was Set Up**
+* Connected Vanna AI to the **Azure-hosted SQL Server**
+
+* Provided table schemas and metadata for accurate querying
+
+* Trained Vanna using actual questions asked during the project
+
+* Embedded Vanna into the workflow to support non-technical teammates
+
+✅ **Outcomes**
+* Reduced dependency on technical team members for daily insights
+
+* Enabled faster decision-making during meetings and presentations
+
+* Improved cross-functional collaboration between business and technical roles
+
+
+---
+
 ### 3. 🧠 Machine Learning Pipeline (Python)
 
 **🛠 Tools:**
