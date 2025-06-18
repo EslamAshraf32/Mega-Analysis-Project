@@ -1,4 +1,10 @@
-<h1 align="center">📦 Mega-Analysis-Project </h1> <p align="center"> <img src="https://img.shields.io/badge/Built with-Azure,%20Power%20BI,%20SQL,%20Python-0078D4?style=flat-square"/> <img src="https://img.shields.io/badge/Insights-Time%3A%20<1s-brightgreen?style=flat-square"/> <img src="https://img.shields.io/badge/AI%20Assistant-Vanna%20AI-blueviolet?style=flat-square"/> </p>
+<h1 align="center">📦 Mega-Analysis Project</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20with-Azure,%20Power%20BI,%20SQL,%20Python-0078D4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Insights%20Time-<1s-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI%20Assistant-Vanna%20AI-blueviolet?style=flat-square"/>
+</p>
 
 ## 🔖 Overview
 
