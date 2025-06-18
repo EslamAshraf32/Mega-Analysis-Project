@@ -1,5 +1,4 @@
-
-# 📊 E-Commerce Data Analytics & Predictive Insights Project
+<h1 align="center">📦 Mega-Analysis-Project </h1> <p align="center"> <img src="https://img.shields.io/badge/Built with-Azure,%20Power%20BI,%20SQL,%20Python-0078D4?style=flat-square"/> <img src="https://img.shields.io/badge/Insights-Time%3A%20<1s-brightgreen?style=flat-square"/> <img src="https://img.shields.io/badge/AI%20Assistant-Vanna%20AI-blueviolet?style=flat-square"/> </p>
 
 ## 🔖 Overview
 
@@ -9,10 +8,9 @@ This project demonstrates a full-cycle e-commerce data analysis solution develop
 
 ## 🔗 Project Artifacts
 
-* **Notion**
-  ![Picture1111](https://github.com/user-attachments/assets/947af9cd-32a4-40d3-8974-b68b7d5a4088)
-  ![Picture2222](https://github.com/user-attachments/assets/f014292a-8074-4374-aff1-1294fde59cb7)
-
+* **Notion**  
+  ![notion1](./assets/notion1.png)  
+  ![notion2](./assets/notion2.png)
 
 * [📚 **Database Dictionary**](./data_dictionary/database_dictionary.pdf)
 
@@ -25,20 +23,15 @@ This project demonstrates a full-cycle e-commerce data analysis solution develop
 * **Visualization:** Power BI
 * **Machine Learning:** scikit-learn, XGBoost
 
-
 ---
 
 ## 🗂️ Project Phases
 
 ### 1. ☁Creating and Connecting the database on Azure
 
-![Azure1](https://github.com/user-attachments/assets/7990ed05-57aa-44ed-92e7-cd0da134468e)
-
-![Azure2](https://github.com/user-attachments/assets/cfe9b8e9-56f0-42f8-8321-afbdc9fe6798)
-
-![Azure3](https://github.com/user-attachments/assets/b5fdaea9-8da6-4d18-8b60-40f84ad85165)
-
-
+![azure1](./assets/azure1.png)  
+![azure2](./assets/azure2.png)  
+![azure3](./assets/azure3.png)
 
 ---
 
@@ -67,19 +60,12 @@ Performed rigorous data audits using dynamic SQL, foreign key checks, and NULL v
 ---
 
 ### 2. 📈 Business Intelligence Dashboard (Power BI)
-![page1](https://github.com/user-attachments/assets/97604150-cc5a-4a7f-9629-a4ae3772732e)
 
-![page2](https://github.com/user-attachments/assets/5175b498-9033-4e1a-93fa-08b5ef90f02a)
-
-![page3](https://github.com/user-attachments/assets/f39d0074-16b0-422b-9e4a-2bbf9ddfcdf2)
-
-![page4](https://github.com/user-attachments/assets/7a22f572-c649-4657-b3f4-962a2e5e64ad)
-
-![page5](https://github.com/user-attachments/assets/34586619-c588-4bcd-b44d-abf257e06a7c)
-
-
-
-
+![powerbi1](./assets/powerbi1.png)  
+![powerbi2](./assets/powerbi2.png)  
+![powerbi3](./assets/powerbi3.png)  
+![powerbi4](./assets/powerbi4.png)  
+![powerbi5](./assets/powerbi5.png)
 
 **Key KPIs & Metrics:**
 
@@ -107,6 +93,8 @@ Performed rigorous data audits using dynamic SQL, foreign key checks, and NULL v
 ### 3. 💬 Natural Language SQL with Vanna AI
 We integrated **Vanna AI** to allow team members and stakeholders to **query the SQL database using plain English**, significantly improving accessibility and speeding up analysis.
 
+![vanna1](./assets/vanna1.png)
+![vanna2](./assets/vanna2.png)
 🔍 **What Vanna AI Enables**
 * Translate natural language questions into **SQL queries**
 
@@ -137,7 +125,6 @@ We integrated **Vanna AI** to allow team members and stakeholders to **query the
 * Enabled faster decision-making during meetings and presentations
 
 * Improved cross-functional collaboration between business and technical roles
-
 
 ---
 
@@ -173,13 +160,11 @@ We integrated **Vanna AI** to allow team members and stakeholders to **query the
 * **Random Forest Regressor:** Baseline model
 * **XGBoost Regressor:** Final model with highest accuracy
 
-🧠 **Result:** XGBoost outperformed Random Forest in RMSE and R²
+🧠 **Result:** XGBoost outperformed Random Forest in RMSE and R²  
 📈 **Outcome:** Enabled accurate customer order value prediction
 
-![image](https://github.com/user-attachments/assets/0231a411-de4d-49bd-984e-81c47f975c4b)
-
-![image](https://github.com/user-attachments/assets/b88e3fc3-24e6-4f1e-b535-74cf289fdf02)
-
+![machinelearning1](./assets/machinelearning1.png)  
+![machinelearning2](./assets/machinelearning2.png)
 
 ---
 
@@ -202,4 +187,3 @@ We integrated **Vanna AI** to allow team members and stakeholders to **query the
 ---
 
 📬 *For inquiries or collaboration opportunities, feel free to reach out!*
-
